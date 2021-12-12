@@ -1,2 +1,2 @@
 # HTML-CSS-BS
-Repositório para exercitar os conceitos de HTML passados no bootcamp da Gama Academy
+Repository to exercise past HTML concepts in Gama Academy bootcamp
